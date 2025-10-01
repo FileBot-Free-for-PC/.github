@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlbmVAoIlatzRCvy5Qpb6pdxA6d2ctCEDNp64nTcDNoQ6zZK-KE7OHa5QweJ2tqolzhmsOZv8aEJUERnRxqzt511Awg8nGj7VnNZbCxtGg2V0XnAPt2DQf0-5dNaR2S57Js6R37pXZ55c/s1600/filebot_1.png" width="800" alt="FileBot main interface" />
   <br><br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu9f8hLGSjsJA6MrXl64FGpILNq5wxO5v6GA&s" width="600" alt="Subtitle fetching workflow" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu9f8hLGSjsJA6MrXl64FGpILNq5wxO5v6GA&s" width="300" alt="Subtitle fetching workflow" />
 </p>
 
 ---
